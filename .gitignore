@@ -2,4 +2,8 @@ app.py
 venv/
 *.env
 Dockerfile
-requirements.txt
+**/__pycache__/
+**/.pytest_cache/
+report_gen.log
+report_gen_errors.log
+.DS_Store
